@@ -37,7 +37,10 @@ html{
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-color: var(--palete-blue);
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-position: top;
+    background-repeat:no-repeat;
+    background-size: contain;
 }
 
 .order__card{
